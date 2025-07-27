@@ -2,19 +2,12 @@
 
 
 🚀 Ultimate Guide: Create AWS EKS with Terraform (Step-by-Step with Explanation)
-Tech Mahato
-Tech Mahato
-
-Follow
-8 min read
-·
-Feb 5, 2025
-14
 
 
 
 
-Hi I’m Mahato Sir, founder of Tech Mahato YouTube channel. Here you will Linux, AWS and DevOps related video in Hindi.
+
+Hi I’m vishesh pachauri. Here you will Linux, AWS and DevOps related video in Hindi.
 
 Learn how to deploy an AWS EKS cluster using Terraform in this hands-on guide. Follow step-by-step instructions to set up EKS, configure security, and manage Kubernetes workloads. Perfect for DevOps engineers and cloud professionals! 🚀
 
